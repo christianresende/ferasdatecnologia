@@ -1,0 +1,43 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.logo  {
+    height: 85px;
+    width: 100%;
+    height: 85px;
+    background-color: #e50014;
+}
+
+img {
+    margin-left: 150px;
+    height: 85px;
+
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+h1{
+    padding-top: 85px;
+    margin: auto;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;  
+}
+p.primeiro{
+    padding-top: 20px;
+    margin: auto;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: center;
+}
+
+p.segundo{
+    padding-top: 20px;
+    margin: auto;
+    font-size: 12px;
+    font-family: Arial, Helvetica, sans-serif; 
+    text-align: center;
+}
